@@ -1,0 +1,2 @@
+field -> [private java.lang.String ua.lviv.lgs.min.Worker.name] has name -> [name]
+field -> [private int ua.lviv.lgs.min.Worker.id] has name -> [id]
